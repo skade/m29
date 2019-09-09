@@ -1,3 +1,3 @@
 # M29
 
-M29 is a stress testing tool written in Rust.
+M29 is random arrivals, simulated in Rust.
